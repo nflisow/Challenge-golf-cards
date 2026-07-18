@@ -1,0 +1,17 @@
+<div class="cardInGameplay">
+        <div class="card-title">
+          <h3 class="card-title-text">${escapeHtml(card.title)}</h3>
+        </div>
+
+        <div class="card-body">
+          <img class="card-image" src="assets/cardArt/painting2.png">
+
+          <p class="card-description-text">
+              ${escapeHtml(card.description)}
+          </p>
+           <div class="card-values">
+                <p class="card-value"><i>$${escapeHtml(card.values.cash)}.00 penalty</i></p>
+                <p class="card-value"><i>${escapeHtml(card.values.drinks)} drink penalty</i></p>
+            </div>
+      </div>
+    </div>
