@@ -44,7 +44,7 @@ const challengeSeeds = [
   ["Control Your Balls", "If your ball touches the green but rolls or bounces off at any point on this hole, take a penalty for each time. (Individual event)", 3,5, "Control your balls.png"],
   ["Reverse vampire", "For this hole, each time a shot lands in the shade of a tree, take a penalty. If you use the shot in the shade it becomes a team penalty (individual/Team event)", 1,3, "Reverse vampire.png"],
   ["Bunker Breakout", "For this hole, if hitting out of a bunker, take a penalty for every shot that doesn't make it out of the sand (Individual event)", 2,4, "Bunker Breakout.png"],
-  ["Benchwarmer", "If your team finishes the hole without using any of your shots, that/those players take a penalty. (individual/Team event)", 2,4, "Benchwarmer.png"],
+  ["Benchwarmer", "If your team finishes the hole without using any of your shots, that/those players take a penalty. (individual/Team event)", 2,4, "Bench warmer.png"],
   ["Weak Sauce", "Any approach that is less than 100 yards to the pin and lands short of the green, takes a penalty. (individual event)", 2,4, "Weak Sauce.png"],
   ["Be unique", "Any player on the same team hits off the fairway or green (left or all right of the fairway, in a bunker, or...), all those players take a penalty. (individual/Team event)", 1,2, "Be unique.png"],
   ["Worm burner", "Any drive that never gets above the trees takes a penalty. (individual event, majority decision if penalty is awarded)", 2,4, "Worm burner.png"],
